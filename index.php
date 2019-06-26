@@ -7,3 +7,5 @@ echo date("d.m.Y H:i:s");
 
 ?>
 </p>
+
+<p>Bye...</p>
